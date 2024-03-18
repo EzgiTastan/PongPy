@@ -1,4 +1,5 @@
 # Python Pong
+![Screenshot_710](https://github.com/EzgiTastan/PongPy/assets/139014781/39650c93-8660-4b1f-a7cb-5d848f7715d3)
 
 ## Description:
 Python Pong is a classic arcade game implemented in Python using the Turtle module. </br>
@@ -6,7 +7,7 @@ Enjoy hours of fun challenging your friends or playing against the computer in t
 
 ## Features:
 - Two-player mode
-- Sound effects (as long as the ball is bounced) (well, the sound was planning to be a [well-known one](https://www.youtube.com/watch?v=dIDp7WbT8IE))
+- Sound effects will be played as the ball is bounced (well, the former sound was planned to be a [well-known one](https://www.youtube.com/watch?v=dIDp7WbT8IE))
 - Score tracking
 
 ## How to Play:
